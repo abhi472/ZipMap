@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZipMap</string>
+    <string name="nearest_points">Nearest points</string>
+    <string name="animate_on_app">Animate on app</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="min_list_error">select at least two locations</string>
+</resources>
